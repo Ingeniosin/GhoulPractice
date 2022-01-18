@@ -1,0 +1,37 @@
+Party:
+  YOU_HAVE_BEEN_INVITED: "&eYou have been invited to join {0}''s party."
+  CLICK_TO_JOIN: "&7(Click to accept)"
+  PLAYER_INVITED: "&e{0} has been invited to your party."
+  PLAYER_JOINED: "&e{0} joined your party."
+  PLAYER_LEFT: "&c{0} has left your party."
+  CREATED: "&eYou created a party."
+  DISBANDED: "&cYour party has been disbanded."
+  PUBLIC: "&e{0} is hosting a public party"
+  PRIVACY_CHANGED: "&eYour party privacy has been changed to: &c{0}"
+Match:
+  Round-Message:
+      Sumo:
+      - "&fYou need to win &c{rounds} &fmore rounds to win!"
+      TheBridge:
+      - "&fYou need to win &c{rounds} &fmore rounds to win!"
+  Disclaimer-Message:
+    Enabled: true
+    Message:
+      - "&c&lReminder: &fButterfly clicking is &cdiscouraged &fand could result in a &cban. Use at your own risk."
+Ranked:
+  Disabled: "&7Ranked has been disabled by an Admin!"
+  Required:
+   - "&7You need to win at least &c10 Unranked Matches &7 to queue Ranked!"
+   - "&7You can bypass this limit by upgrading your rank at &cstore.ghouluhc.club"
+Event:
+  Sumo:
+    Not-Active: "&cThere is no Active Sumo."
+    Not-Part: "&cYou are not part of any Sumo."
+    Joined: ""
+    Left: ""
+    Joined-Announce: ""
+    Left-Announce: ""
+    Broadcast: ""
+    Killed: ""
+    Starting: ""
+Rematch: ""

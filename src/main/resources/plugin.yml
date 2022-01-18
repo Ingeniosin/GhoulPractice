@@ -1,0 +1,29 @@
+main: net.ghoul.practice.Ghoul
+name: GhoulPractice
+version: 1.0
+depend:
+  - LunarClient-API
+  - GhoulCore
+commands:
+  resetmongo:
+  setlb:
+  arena:
+  kit:
+  statsprac:
+  duel:
+  toggleduel:
+  practice:
+  spectate:
+    aliases:
+      - spec
+  viewinv:
+  sumo:
+  leaders:
+  party:
+    aliases:
+      - p
+  event:
+  matches:
+    aliases:
+      - matchhistory
+      - matcheshistory
